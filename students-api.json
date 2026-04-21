@@ -1,0 +1,64 @@
+{
+  "students": [
+    {
+      "id": 1,
+      "name": "Aarav Patel",
+      "rollNo": "BCA001",
+      "department": "Computer Applications",
+      "specialization": "Web Development",
+      "year": 3,
+      "email": "aarav.patel@example.com",
+      "phone": "9876543210",
+      "address": "Vadodara, Gujarat",
+      "skills": ["HTML", "CSS", "JavaScript", "React"]
+    },
+    {
+      "id": 2,
+      "name": "Riya Shah",
+      "rollNo": "BCA002",
+      "department": "Computer Applications",
+      "specialization": "Data Science",
+      "year": 2,
+      "email": "riya.shah@example.com",
+      "phone": "9876501234",
+      "address": "Ahmedabad, Gujarat",
+      "skills": ["Python", "Pandas", "Machine Learning"]
+    },
+    {
+      "id": 3,
+      "name": "Kunal Mehta",
+      "rollNo": "BCA003",
+      "department": "Information Technology",
+      "specialization": "Cyber Security",
+      "year": 3,
+      "email": "kunal.mehta@example.com",
+      "phone": "9123456780",
+      "address": "Surat, Gujarat",
+      "skills": ["Networking", "Ethical Hacking", "Linux"]
+    },
+    {
+      "id": 4,
+      "name": "Neha Joshi",
+      "rollNo": "BCA004",
+      "department": "Computer Applications",
+      "specialization": "Mobile App Development",
+      "year": 1,
+      "email": "neha.joshi@example.com",
+      "phone": "9988776655",
+      "address": "Rajkot, Gujarat",
+      "skills": ["Java", "Kotlin", "Android"]
+    },
+    {
+      "id": 5,
+      "name": "Vivek Sharma",
+      "rollNo": "BCA005",
+      "department": "Information Technology",
+      "specialization": "Cloud Computing",
+      "year": 2,
+      "email": "vivek.sharma@example.com",
+      "phone": "9012345678",
+      "address": "Delhi, India",
+      "skills": ["AWS", "Docker", "Kubernetes"]
+    }
+  ]
+}
